@@ -10,7 +10,7 @@ This is a basic static website created for the Web Development Internship Task 5
 
 # 🌐 Live URL
 ```
-https://yourusername.github.io
+https://Haripreeth2007.github.io
 ```
 
 # 📁 Files Included
